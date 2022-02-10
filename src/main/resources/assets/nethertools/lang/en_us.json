@@ -1,14 +1,4 @@
 {
-//tabs
-  "itemGroup.nethertools_mod_tab": "NetherTools+",
-//blocks
-  "block.nethertools.brimstone": "Brimstone",
-  "block.nethertools.brimstone_bricks": "Brimstone Bricks",
-  "block.nethertools.polished_brimstone": "Polished Brimstone",
-  "block.nethertools.scorched_mud": "Scorched Mud",
-  "block.nethertools.scorched_mud_bricks": "Scorched Mud Bricks",
-  "block.nethertools.netherite_bricks": "Netherite Bricks",
-  "block.nethertools.netherite_tiles": "Netherite Tiles",
 //tools
   "item.nethertools.glowstone_shovel": "Glowstone Shovel",
   "item.nethertools.glowstone_pickaxe": "Glowstone Pickaxe",

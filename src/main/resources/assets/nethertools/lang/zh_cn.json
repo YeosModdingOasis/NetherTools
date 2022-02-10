@@ -1,12 +1,4 @@
 {
-//标签
-  "itemGroup.nethertools_mod_tab": "下界和末地冒险",
-//方块
-  "block.nethertools.brimstone": "硫磺石",
-  "block.nethertools.scorched_mud": "焦泥",
-  "block.nethertools.scorched_mud_bricks": "烧焦的泥砖",
-  "block.nethertools.netherite_bricks": "下界合金砖",
-  "block.nethertools.netherite_tiles": "下界合金瓷砖",
 //工具
   "item.nethertools.glowstone_shovel": "萤石铲",
   "item.nethertools.glowstone_pickaxe": "萤石镐",
