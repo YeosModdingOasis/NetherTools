@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nethertools:item/piglin_brute_golden_axe"
+  }
+}

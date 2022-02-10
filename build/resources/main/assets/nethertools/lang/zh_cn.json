@@ -1,0 +1,27 @@
+{
+//标签
+  "itemGroup.nethertools_mod_tab": "下界和末地冒险",
+//方块
+  "block.nethertools.brimstone": "硫磺石",
+  "block.nethertools.scorched_mud": "焦泥",
+  "block.nethertools.scorched_mud_bricks": "烧焦的泥砖",
+  "block.nethertools.netherite_bricks": "下界合金砖",
+  "block.nethertools.netherite_tiles": "下界合金瓷砖",
+//工具
+  "item.nethertools.glowstone_shovel": "萤石铲",
+  "item.nethertools.glowstone_pickaxe": "萤石镐",
+  "item.nethertools.glowstone_axe": "萤石斧",
+  "item.nethertools.glowstone_hoe": "萤石锄",
+//武器
+  "item.nethertools.glowstone_sword": "萤石剑",
+  "item.nethertools.wither_sword": "凋零剑",
+  "item.nethertools.piglin_brute_golden_axe": "猪灵蛮兵的剑",
+//物品
+  "item.nethertools.wither_bone": "凋零骨头",
+//马盔甲
+  "item.nethertools.netherite_horse_armor": "下界合金马盔甲",
+
+
+
+
+}

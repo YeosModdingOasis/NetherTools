@@ -1,0 +1,26 @@
+{
+//tabs
+  "itemGroup.nethertools_mod_tab": "NetherTools+",
+//blocks
+  "block.nethertools.brimstone": "Brimstone",
+  "block.nethertools.brimstone_bricks": "Brimstone Bricks",
+  "block.nethertools.polished_brimstone": "Polished Brimstone",
+  "block.nethertools.scorched_mud": "Scorched Mud",
+  "block.nethertools.scorched_mud_bricks": "Scorched Mud Bricks",
+  "block.nethertools.netherite_bricks": "Netherite Bricks",
+  "block.nethertools.netherite_tiles": "Netherite Tiles",
+//tools
+  "item.nethertools.glowstone_shovel": "Glowstone Shovel",
+  "item.nethertools.glowstone_pickaxe": "Glowstone Pickaxe",
+  "item.nethertools.glowstone_axe": "Glowstone Axe",
+  "item.nethertools.glowstone_hoe": "Glowstone Hoe",
+//weapons
+  "item.nethertools.glowstone_sword": "Glowstone Sword",
+  "item.nethertools.wither_sword": "Wither Sword",
+  "item.nethertools.piglin_brute_golden_axe": "Piglin Brute's Golden Axe",
+//items
+  "item.nethertools.wither_bone": "Wither Bone",
+//Horse Armor
+  "item.nethertools.netherite_horse_armor": "Netherite Horse Armor",
+  "item.nethertools.glowstone_horse_armor": "Glowstone Horse Armor"
+}
